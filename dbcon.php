@@ -1,0 +1,10 @@
+<?php
+ob_start();
+session_start();
+$servername="localhost";
+$dbusername="root";
+$dbpassword="";
+$dbname="art";
+mysql_connect($servername,$dbusername,$dbpassword);
+mysql_select_db($dbname);
+?>
