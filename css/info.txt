@@ -1,0 +1,1 @@
+This folder contains all the stylesheets for the website coded with CSS3.
